@@ -3,8 +3,6 @@
 <head>
     <title>Hitung Durasi Nonton Film</title>
 </head>
-<p>Halo dari lokal</p>
-<p>Halo dari GitHub</p>
 <body>
     <h2>Hitung Durasi Nonton Film</h2>
     <form method="POST">
